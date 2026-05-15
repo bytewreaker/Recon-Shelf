@@ -106,5 +106,17 @@
     "description": "A toolkit for testing, tweaking and cracking JSON Web Tokens.",
     "website": "https://github.com/ticarpi/jwt_tool",
     "tags": ["jwt", "vuln"]
+  },
+  {
+    "name": "CSP Bypass",
+    "description": "A tool designed to bypass CSP and exploit XSS vulnerabilities on sites.",
+    "website": "https://cspbypass.com",
+    "tags": ["csp", "vuln"]
+  },
+  {
+    "name": "rep+",
+    "description": "Burp-style HTTP Repeater for Chrome DevTools with built_in AI to explain requests and suggest attacks.",
+    "website": "https://github.com/repplus/rep-chrome",
+    "tags": ["extension"]
   }
 ]
