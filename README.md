@@ -5,7 +5,7 @@ built for hunters who need the right tool the moment they identify a tech.
 
 No logins. No installs. Just open and find.
 
-🔗 **Live site:** `https://yourusername.github.io/recon-shelf`
+🔗 **Live site:** `[https://yourusername.github.io/recon-shelf](https://bytewreaker.github.io/Recon-Shelf/)`
 
 ---
 
