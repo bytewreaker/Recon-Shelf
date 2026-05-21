@@ -142,5 +142,17 @@
     "description": "find potential endpoints, parameters, and generate a custom target wordlist.",
     "website": "https://github.com/xnl-h4ck3r/GAP-Burp-Extension",
     "tags": ["burp-plugin"]
+  },
+  {
+    "name": "GraphQL wordlist",
+    "description": "Operations, field names, type names... Collected on more than 60k distinct GraphQL schemas.",
+    "website": "https://github.com/Escape-Technologies/graphql-wordlist",
+    "tags": ["wordlist", "graphql"]
+  },
+  {
+    "name": "Orbis",
+    "description": "Orbis is an full spectrum automated external attack surface intelligent toolkit.",
+    "website": "https://github.com/iamthefrogy/frogy2.0",
+    "tags": ["recon"]
   }
 ]
