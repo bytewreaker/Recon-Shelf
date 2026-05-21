@@ -118,5 +118,29 @@
     "description": "Burp-style HTTP Repeater for Chrome DevTools with built_in AI to explain requests and suggest attacks.",
     "website": "https://github.com/repplus/rep-chrome",
     "tags": ["extension"]
+  },
+  {
+    "name": "JSAnalyzer",
+    "description": "A Burp extension for JavaScript static analysis, Extracts API endpoints, URLs, secrets, and email  from JS files with intelligent noise filtering.",
+    "website": "https://github.com/jenish-sojitra/JSAnalyzer",
+    "tags": ["burp-plugin"]
+  },
+  {
+    "name": "CeWL",
+    "description": "CeWL is a Custom Word List Generator.",
+    "website": "https://github.com/digininja/CeWL",
+    "tags": ["recon"]
+  },
+  {
+    "name": "param miner",
+    "description": "This extension identifies hidden, unlinked parameters. It's particularly useful for finding web cache poisoning.",
+    "website": "https://github.com/portswigger/param-miner",
+    "tags": ["burp-plugin"]
+  },
+  {
+    "name": "GAP",
+    "description": "find potential endpoints, parameters, and generate a custom target wordlist.",
+    "website": "https://github.com/xnl-h4ck3r/GAP-Burp-Extension",
+    "tags": ["burp-plugin"]
   }
 ]
